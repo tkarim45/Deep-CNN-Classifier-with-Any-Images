@@ -25,3 +25,14 @@ Specify any prerequisites or dependencies that users need to install before usin
 ```bash
 # Example:
 pip install -r requirements.txt
+```
+
+## Installation
+
+### Provide installation instructions for your project.
+
+```bash
+# Example:
+git clone https://github.com/your-username/Deep-CNN-Classifier-with-Any-Images.git
+cd Deep-CNN-Classifier-with-Any-Images
+```
