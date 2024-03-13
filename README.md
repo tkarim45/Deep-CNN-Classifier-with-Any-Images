@@ -31,15 +31,6 @@ To get started with the "Deep-CNN-Classifier-with-Any-Images" project, refer to 
 
 Feel free to explore and adapt this project to your specific image classification needs, and contribute to its enhancement if you find areas for improvement.
 
-### Prerequisites
-
-You would need the following dependencies to run the code
-
-```bash
-# Example:
-pip install -r requirements.txt
-```
-
 ## Installation
 
 ### Provide installation instructions for your project.
@@ -49,3 +40,13 @@ pip install -r requirements.txt
 git clone https://github.com/your-username/Deep-CNN-Classifier-with-Any-Images.git
 cd Deep-CNN-Classifier-with-Any-Images
 ```
+
+### Prerequisites
+
+You would need the following dependencies to run the code
+
+```bash
+# Example:
+pip install -r requirements.txt
+```
+
